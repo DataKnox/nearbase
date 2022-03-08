@@ -1,0 +1,13 @@
+{
+  "name": "nearhello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn asp -f unit.spec",
+    "build": "asb --target debug"
+  },
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}

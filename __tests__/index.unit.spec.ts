@@ -1,0 +1,1 @@
+as_pect.d.ts
